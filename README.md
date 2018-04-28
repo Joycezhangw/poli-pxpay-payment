@@ -6,7 +6,7 @@ POLI AND Paymentexpress
 POLI Web Server API 和 PxPay2.0 支付接口，申请后都是在测试环境下集成好，然后，再通过商户在他们的管理后台中去申请。申请通过后，才能在正式交易环境中支付
 
 
-####使用 pxpay2.0 支付接口
+#### 使用 pxpay2.0 支付接口
 
 请求参数以：XML格式
 
@@ -27,8 +27,6 @@ https://www.paymentexpress.com/developer-e-commerce-paymentexpress-hosted-pxpay
 测试环境下，信用卡用户名，过期时间和CVC随便填写
 
 #### POLI V2 支付接口
-
-#POLI Payment
 
 #### 基本认证
 基本认证是通过使用 MerchantCode(商家代码)/AuthenticationCode(认证码) 对来唯一且安全地识别POLi商家的手段。 
