@@ -39,6 +39,7 @@ https://www.paymentexpress.com/developer-e-commerce-paymentexpress-hosted-pxpay
         And put it as the 'Authorization' header, with the word 'Basic' in-front of it:
         Authorization: Basic TWVyY2hhbnRDb2RlOkF1dGhlbnRpY2F0aW9uQ29kZQ==
 ```
+
 ####具体PHP请求
 
 ```
@@ -51,6 +52,7 @@ https://www.paymentexpress.com/developer-e-commerce-paymentexpress-hosted-pxpay
 
 
 ####curl需要用到一个请求包
+
 下载地址：https://raw.githubusercontent.com/bagder/ca-bundle/master/ca-bundle.crt
 ```
 curl_setopt( $ch, CURLOPT_CAINFO, "ca-bundle.crt");
