@@ -7,8 +7,9 @@ POLi交易状态记录整个付款过程中的交易进度。 每个状态代表
 |Active |在达成终端状态之前在交易过程中获得。 具有活动状态的交易不被视为已完成  |
 |Terminal|当交易成功或失败时达成结论|
 
+
 |状态|类别|描述|
-|:-----  |:-----|
+|:-----  |:-----|:-----|
 |Initiated| Active|当一个事务开始时，它立即被分配Initiated状态|
 |FinancialInstitution Selected|Active|当用户选择他们希望使用的金融机构时，交易进入FinancialInstitutionSelected状态 |
 |EULAAccepted|Active|当用户接受POLi最终用户许可协议时，交易进入EULAAccepted|
