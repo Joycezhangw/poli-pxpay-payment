@@ -90,7 +90,7 @@ public function dopxpay()
 ```
 <Request valid="1">
 <URI>https://sec.paymentexpress.com/pxmi3/EF4054F622D6C4C1B4F
-9AEA59DC91CAD3654CD60ED7ED04110CBC402959AC7CF035878AE</URI>
+9AEA59DC91CAD3654CD60EDE</URI>
 </Request>
 ```
 
