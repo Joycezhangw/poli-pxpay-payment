@@ -2,19 +2,12 @@
 
 - 获取交易的状态和详细信息
 
-#### 接口版本：
-
-|版本号|制定人|制定日期|修订日期|
-|:----    |:---|:----- |-----   |
-|v2 |POLI  |2017-03-20 |  2018-04-28 |
-
 #### 请求URL:
 
 - https://poliapi.apac.paywithpoli.com/api/v2/Transaction/GetTransaction?token=$token
 
 #### 请求方式：
 
-- GET
 - POST
 
 #### 请求头：
