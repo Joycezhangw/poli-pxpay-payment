@@ -70,21 +70,21 @@ if(is_null($token)) {
 {
     "CountryName":"New Zealand",//国家名称
     "FinancialInstitutionCountryCode":"iBankNZ01",//金融机构国家代码
-    "TransactionID":"8e4b1f76-c3cd-4821-9c14-4a942bab4eaa",//poli交易单号
+    "TransactionID":"8e4b1f76-c3cd-4a942bab4eaa",//poli交易单号
     "MerchantEstablishedDateTime":"2018-04-28T12:44:10.19",//商家发起的交易时间
-    "PayerAccountNumber":"98742364",//付款人帐号
+    "PayerAccountNumber":"1238364",//付款人帐号
     "PayerAccountSortCode":"123456",//付款人账户分类码
-    "MerchantAccountSortCode":"060229",//商家帐户分类代码
-    "MerchantAccountName":"Skytrading Newwork",//商家账户名
+    "MerchantAccountSortCode":"123456",//商家帐户分类代码
+    "MerchantAccountName":"123456 Newwork",//商家账户名
     "MerchantData":"",//商家提交的数据
     "CurrencyName":"New Zealand Dollar",//货币名称
     "TransactionStatus":"Completed",//交易状态，Completed-已完成
     "IsExpired":false,//是否过期
-    "MerchantEntityID":"48cf3193-24da-474b-89b2-1d80127e864d",//商家实体ID
-    "UserIPAddress":"27.155.232.6",//用户IP地址
+    "MerchantEntityID":"48cf3193-12345-1d80127e864d",//商家实体ID
+    "UserIPAddress":"127.0.0.1",//用户IP地址
     "POLiVersionCode":"4 ",//POLI版本代码
-    "MerchantName":"Skytrading",//商家名称
-    "TransactionRefNo":"996445318810",//交易参考编码
+    "MerchantName":"123456",//商家名称
+    "TransactionRefNo":"123456",//交易参考编码
     "CurrencyCode":"NZD",//货币国际代码
     "CountryCode":"NZ",//国家代码
     "PaymentAmount":1,//实际支付金额
@@ -92,7 +92,7 @@ if(is_null($token)) {
     "EstablishedDateTime":"2018-04-28T12:44:10.203",//建立时间
     "StartDateTime":"2018-04-28T12:44:10.203",//交易开始时间
     "EndDateTime":"2018-04-28T12:56:27.14",//交易结束时间
-    "BankReceipt":"97600462-292583",//银行单据
+    "BankReceipt":"123456-292583",//银行单据
     "BankReceiptDateTime":"28 April 2018 12:56:27",//银行收款日期时间
     "TransactionStatusCode":"Completed",//银行交易状态吗
     "ErrorCode":null,//错误代码
